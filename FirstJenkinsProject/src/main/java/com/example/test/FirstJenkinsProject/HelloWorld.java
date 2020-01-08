@@ -12,6 +12,8 @@ public class HelloWorld
         
         int[] data= {0,3,7,9,10,13,15};
         
-        System.out.println(data[data[1]]);
+        System.out.println("the out put is ::"+data[data[1]]);
+        
+       
     }
 }
